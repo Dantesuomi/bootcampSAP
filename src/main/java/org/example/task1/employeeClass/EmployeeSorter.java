@@ -1,5 +1,6 @@
 package org.example.task1.employeeClass;
 
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
@@ -9,8 +10,8 @@ public class EmployeeSorter {
     public static void showEmployeeList() {
 
         List<Employee> employeeList = new ArrayList<>();
-        employeeList.add(new Employee("Alice", 565450.0));
-        employeeList.add(new Employee("Bob", 534556.0));
+        employeeList.add(new Employee("Alice", 865450.0));
+        employeeList.add(new Employee("Bob", 734556.0));
         employeeList.add(new Employee("Charlie", 674561.0));
 
         System.out.println("Unsorted Employee List:");

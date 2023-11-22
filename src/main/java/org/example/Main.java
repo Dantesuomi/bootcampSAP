@@ -17,7 +17,7 @@ public class Main {
 
         EmployeeSorter.showEmployeeList();
 
-        MathematicalExpression.doExpression();
+        MathematicalExpression.calculate();
 
 
     }
