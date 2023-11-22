@@ -11,6 +11,6 @@ public class Employee {
 
     @Override
     public String toString() {
-        return "Employee name" + name + " with salary " + salary;
+        return "Employee name " + name + " with salary " + salary;
     }
 }
